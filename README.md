@@ -23,8 +23,8 @@ libnl3-devel NetworkManager-libnm-devel
 ## Clone the Repository
 
 ```bash
-git clone https://www.kismetwireless.net/git/kismet.git 
-cd kismet
+git clone https://github.com/itsmelsec/kismet_nethunter.git
+cd kismet_nethunter
 ```
 
 ## Build and Install
